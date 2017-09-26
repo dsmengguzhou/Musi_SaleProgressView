@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.SeekBar;
 
 public class MainActivity extends AppCompatActivity {
-    //抢购进度条
+    //加一条注释
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
