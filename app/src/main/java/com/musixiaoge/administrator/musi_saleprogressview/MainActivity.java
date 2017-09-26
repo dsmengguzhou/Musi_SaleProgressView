@@ -6,6 +6,7 @@ import android.widget.SeekBar;
 
 public class MainActivity extends AppCompatActivity {
     //加一条注释
+    //Nothing is impossible
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
